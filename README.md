@@ -1,5 +1,5 @@
-## PROJETO PRÁTICO EM SISTEMAS
-* **Dia:** Quarta-Feira (Pré-aula)
+## PROJETO PRÁTICO DE PROGRAMAÇÃO
+* **Dia:** Segunda-feira e Quarta-Feira (Pré-aula)
 * **Período:** manhã
 
 ## Descrição
